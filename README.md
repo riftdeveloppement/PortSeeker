@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to open an issue on GitHub or contact me directly via email at `your-email@example.com`.
+For any questions or suggestions, feel free to open an issue on GitHub or contact me directly via discord at ![Discord](https://img.shields.io/badge/-wged-7289DA?style=flat-square&logo=discord&logoColor=white).
 
 ---
 
