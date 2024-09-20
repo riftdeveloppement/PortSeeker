@@ -1,10 +1,6 @@
-Voici un exemple de fichier `README.md` avec des émojis pour rendre la présentation plus visuelle et attrayante sur GitHub :
-
----
-
 # 🔍 PortSeeker
 
-**PortSeeker** is a fast and simple port scanner with a modern graphical interface. It allows you to scan for open ports on any IP address, showing results in an efficient way. Perfect for network security analysis and testing. 🚀
+**PortSeeker** is a fast and simple open-source port scanner with a modern graphical interface. It allows you to scan for open ports on any IP address, showing results in an efficient way. Perfect for network security analysis and testing. 🚀
 
 ## ✨ Features
 - ⚡ **Multithreaded port scanning** for faster results.
