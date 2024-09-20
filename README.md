@@ -29,7 +29,7 @@ Follow these steps to set up **PortSeeker** on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/PortSeeker.git
+   git clone https://github.com/riftdeveloppement/PortSeeker.git
    cd PortSeeker
    ```
 
