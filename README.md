@@ -10,7 +10,7 @@
 - 🌈 **Colorful animated title** for a modern look and feel.
 
 ## 📸 Preview
-![PortSeeker Screenshot](https://cdn.discordapp.com/attachments/1284442715211431948/1286774120343670856/Capture.PNG?ex=66ef2149&is=66edcfc9&hm=fd1c3673c830c6dd92ee660b55fceb38a403507881bf69e0a4a12ff4ad73bb09&)
+![PortSeeker Screenshot](https://i.postimg.cc/KjT3kR1Q/Capture.png)
 
 ## 🛠️ Installation
 
